@@ -1,5 +1,8 @@
 ## Good day boy👋
 ## My name is Eduardo Santos
+## Estou estudando no alura
+## Estou me desenvolvendo na linguagem JavaScript
+## Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 <!--
 **Eduardo-beep543/Eduardo-beep543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
